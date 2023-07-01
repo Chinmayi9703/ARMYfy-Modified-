@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant:ital,wght@1,500&display=swap');
+
+body{
+    background-color: #EE82EE;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+
+.navbar-brand img{
+    width: 65px;
+    padding: 0 8px;
+}
+.navbar-brand{
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+
+.nav-item{
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+nav ul li{
+    padding: 0 6px;
+}
